@@ -9,7 +9,7 @@ function Story (props) {
             <div className='story-image-container'>
                 <img className='story-image' 
                     src={require(`../images/photo-${props.imageid}.png`)}
-                    alt={`${props.name}-photo`} />
+                    alt={`${props.name}`} />
             </div>
         </div>
     );
