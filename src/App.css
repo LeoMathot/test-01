@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #80B0C0;
+  color: #ffffff;
+}
+
+h1 {
+  color: #000000;
+}
+
+.App {
+  width: fit-content;
+  margin: 20px auto;
+  padding: 10px;
+  background-color: #90c0d0;
+  border-radius: 0 40px 0 40px;
+}
+
+.cont {
+  background-color: #70a0b0;
+  max-width: 500px;
+  margin-top: 50px;
+  padding: 10px 10px 1px 10px;
+  border-radius: 0 35px 0 35px;
+}
+
+.inner-div {
+  margin-bottom: 10px;
+  background-color: #90c0d0;
+  color: #000000;
+  padding: 10px;
+  border-radius: 0 30px 0 30px;
+}
+
+.div-2, .div-3 {
+  width: fit-content;
+}
+
+.div-3 {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 480px) {
+  .App {
+      padding: 10px 0;
+  }
+
+  .header {
+    margin-left: 10px;
+  }
+}

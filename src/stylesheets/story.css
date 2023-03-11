@@ -1,0 +1,38 @@
+.story-container {
+    max-width: 500px;
+    min-width: 500px;
+    height: 200px;
+    background-color: #b0e0f0;
+    border-radius: 0 40px 0 40px;
+    color: #002030;
+    margin: 20px 0;
+    padding: 10px;
+}
+
+.story-image-container {
+    height: 120px;
+    width: 100%;
+    border-radius: 0 40px 0 40px;
+    background-color: #90c0d0;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.story-image {
+    height: 100%;
+}
+
+@media (max-width: 600px) {
+    .story-container {
+        min-width: 400px;
+    }
+}
+
+@media (max-width: 480px) {
+    .story-container {
+        min-width: 300px;
+    }
+}
