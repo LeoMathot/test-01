@@ -1,7 +1,7 @@
 {
   "name": "test-01",
   "version": "0.1.0",
-  "homepage": "https://LeoMathot.github.io/test-01",
+  "homepage": "https://leomathot.github.io/test-01",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
