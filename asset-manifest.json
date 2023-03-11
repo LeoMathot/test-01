@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-01/static/css/main.67c24856.css",
+    "main.js": "/test-01/static/js/main.5c5d4eb6.js",
+    "static/media/photo-sara.png": "/test-01/static/media/photo-sara.8e167a04a3ab0b47f6d7.png",
+    "static/media/photo-akira.png": "/test-01/static/media/photo-akira.8e50825ad4f0b9c9f4d0.png",
+    "index.html": "/test-01/index.html",
+    "main.67c24856.css.map": "/test-01/static/css/main.67c24856.css.map",
+    "main.5c5d4eb6.js.map": "/test-01/static/js/main.5c5d4eb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67c24856.css",
+    "static/js/main.5c5d4eb6.js"
+  ]
+}
